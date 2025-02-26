@@ -2,7 +2,7 @@
 
 A powerful Streamlit application that helps investors analyze and optimize stock portfolios using advanced financial optimization techniques.
 
-![Stock Portfolio Analyzer](https://raw.githubusercontent.com/username/stock-portfolio-analyzer/main/screenshot.png)
+![Stock Portfolio Analyzer](https://stock-portfolizer.streamlit.app/)
 
 ## Features
 
